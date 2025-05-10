@@ -105,8 +105,8 @@ streamlit_app/
 ---
 
 ## 👨‍💻 Authors
-- Tushar D. (tsd10)
-- [Your Collaborators Here]
+
+Virginia Tech, NLP 5624 Spring 2025 Group 
 
 ---
 
@@ -114,7 +114,6 @@ streamlit_app/
 - Add support for more domains
 - Integrate real-time Wikidata lookups
 - Visualize supporting knowledge triples interactively
-- Replace regex extraction with trained triple extractor (e.g., T5/Qwen)
 
 ---
 
